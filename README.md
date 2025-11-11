@@ -1,7 +1,7 @@
-# 👋 Hello, I'm **DestiShell** / Привет, я **DestiShell**
+# 👋 Hello, I'm **DestiShell**
 
 ## About Me / Обо мне
-**Languages & Tools / Языки и инструменты:**
+**Languages & Tools**
 - Python  
 - Java  
 - JavaScript  
@@ -9,18 +9,17 @@
 - Other  
 
 Focused on backend systems, game modding (Minecraft and more), and open-source contributions.  
-Занимаюсь серверными системами, моддингом игр (в том числе Minecraft) и open-source проектами.  
 
 ---
 
-## 🚀 What I Do / Чем я занимаюсь
-- Full-stack development / Full-stack разработка  
-- Game modding / Моддинг игр  
-- Open-source projects / Open-source проекты  
-- Backend & APIs / Серверные системы и API  
+## 🚀 What I Do 
+- Full-stack development 
+- Game modding 
+- Open-source projects
+- Backend & APIs 
 
 ---
 
-## 🌐 Contacts / Контакты
+## 🌐 Contacts
 - GitHub: [@DestiShell](https://github.com/DestiShell)  
 - Discord: @sekyndochka  
