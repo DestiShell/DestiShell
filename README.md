@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **DestiShell**
 
-## About Me / Обо мне
+## About Me
 **Languages & Tools**
 - Python  
 - Java  
